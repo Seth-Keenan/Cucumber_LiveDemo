@@ -1,0 +1,5 @@
+Bypass ADMIN - 
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+
+Cucumber command - 
+.\node_modules\.bin\cucumber-js features
